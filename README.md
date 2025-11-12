@@ -183,8 +183,21 @@ You can jot quick development notes right here:
 - [ ] Filter out placeholder emails ("mail@example.com")
 - [ ] Cache crawls per session to speed re-runs
 - [ ] Add Google Maps reverse-lookup integration
-```
 
+added option to include new sites
+
+add option to include phone number
+
+add function to include possible reletives, same address full namsy
+`
+add function to search possible past addresses
+
+add function to find social media profiles/usernames
+
+add function to index crawl possible profile pictures that matches one or more results for verification
+``
+proxy url list for proxy switching
+user agent switching
 ---
 
 ```
